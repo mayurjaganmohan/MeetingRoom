@@ -1,0 +1,15 @@
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\bin\Debug\LogLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommonLibrary\bin\Debug\LogLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\bin\Debug\LogLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\bin\Debug\LogLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\bin\Debug\MySql.Data.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\CommonLibrary\bin\Debug\Newtonsoft.Json.dll

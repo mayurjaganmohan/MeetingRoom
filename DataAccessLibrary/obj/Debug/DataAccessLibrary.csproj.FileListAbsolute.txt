@@ -1,0 +1,5 @@
+D:\Project(.Net)\Trial Samples\MeetingRoom\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+D:\Project(.Net)\Trial Samples\MeetingRoom\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

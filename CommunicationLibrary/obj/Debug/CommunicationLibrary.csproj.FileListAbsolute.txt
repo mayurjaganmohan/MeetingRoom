@@ -1,0 +1,4 @@
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommunicationLibrary\bin\Debug\CommunicationLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommunicationLibrary\bin\Debug\CommunicationLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommunicationLibrary\obj\Debug\CommunicationLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\CommunicationLibrary\obj\Debug\CommunicationLibrary.pdb

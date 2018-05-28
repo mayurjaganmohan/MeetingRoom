@@ -1,0 +1,10 @@
+D:\Project(.Net)\Trial Samples\MeetingRoom\LogLibrary\bin\Debug\LogLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\LogLibrary\bin\Debug\LogLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\LogLibrary\obj\Debug\LogLibrary.csprojResolveAssemblyReference.cache
+D:\Project(.Net)\Trial Samples\MeetingRoom\LogLibrary\obj\Debug\LogLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\LogLibrary\obj\Debug\LogLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\LogLibrary\bin\Debug\LogLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\LogLibrary\bin\Debug\LogLibrary.pdb
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\LogLibrary\obj\Debug\LogLibrary.csprojResolveAssemblyReference.cache
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\LogLibrary\obj\Debug\LogLibrary.dll
+D:\Project(.Net)\Trial Samples\MeetingRoom\MeetingRoomClone\MeetingRoom\LogLibrary\obj\Debug\LogLibrary.pdb

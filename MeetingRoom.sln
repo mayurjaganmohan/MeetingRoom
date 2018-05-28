@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingRoom", "MeetingRoom\MeetingRoom.csproj", "{C7E00547-BEA1-4F8A-97EC-E522727291CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationLibrary", "CommunicationLibrary\CommunicationLibrary.csproj", "{A1D7EC01-8562-4530-BE3E-0E05750F422C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{3372380D-9B69-40EC-9DA2-AF8F13230476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E00547-BEA1-4F8A-97EC-E522727291CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E00547-BEA1-4F8A-97EC-E522727291CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E00547-BEA1-4F8A-97EC-E522727291CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E00547-BEA1-4F8A-97EC-E522727291CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D7EC01-8562-4530-BE3E-0E05750F422C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D7EC01-8562-4530-BE3E-0E05750F422C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D7EC01-8562-4530-BE3E-0E05750F422C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D7EC01-8562-4530-BE3E-0E05750F422C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3372380D-9B69-40EC-9DA2-AF8F13230476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3372380D-9B69-40EC-9DA2-AF8F13230476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3372380D-9B69-40EC-9DA2-AF8F13230476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3372380D-9B69-40EC-9DA2-AF8F13230476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
